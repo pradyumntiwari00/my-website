@@ -1,0 +1,22 @@
+h1{
+    color: deeppink;
+    background-color: rgb(240, 240, 228);
+    font: 700;
+    font-style: italic;
+    float: right;
+    clear: both;
+}
+h2{
+    color: rgb(163, 88, 13);
+   
+    clear: right;
+}
+#P1{
+    color: darkblue;
+    font-size: medium;
+}
+table{
+   
+    background-color:rgb(184, 232, 247);
+    border-color:rgb(241, 14, 90);
+}
